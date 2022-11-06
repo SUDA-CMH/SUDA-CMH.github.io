@@ -5,7 +5,7 @@ In recent years, more and more people suffer from voice-related diseases. Given 
 ---
 **All utterances are partially or completely unseen during training, and the results are uncurated (NOT cherry-picked) unless otherwise specified**.
 
-#### E-DGAN video samples
+#### E-DGAN Audio Samples
 
 |              | Sample 1  | Sample 2  | Sample 3  | Sample 4  |
 |:------------:|:-------:|:-------:|:-------:|:-------:|
