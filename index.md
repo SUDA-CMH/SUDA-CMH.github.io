@@ -6,6 +6,7 @@ In recent years, more and more people suffer from voice-related diseases. Given 
 **All utterances are partially or completely unseen during training, and the results are uncurated (NOT cherry-picked) unless otherwise specified**.
 
 #### E-DGAN Audio Samples
+##### The audio loading may be slower and you need to wait patiently. If you cannot load audio, please contact us to provide original audio files. Our mail address is 20214239031@stu.suda.edu.cn.
 
 |              | Sample 1  | Sample 2  | Sample 3  | Sample 4  |
 |:------------:|:-------:|:-------:|:-------:|:-------:|
